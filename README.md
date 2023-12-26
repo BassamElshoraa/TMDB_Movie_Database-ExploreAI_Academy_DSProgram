@@ -1,6 +1,7 @@
 # The_Movie_Database--ExploreAI_Academy_DS_Program
 # Movie Database and SQL Queries - Explore AI for Data Science Project
 
+
 ## Database Description
 
 This project centers around a movie database containing comprehensive information about movies, including details such as titles, release dates, actors, genres, awards, and more.
