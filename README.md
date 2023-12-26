@@ -44,8 +44,4 @@ The SQL queries provided in this project were designed to assess proficiency in 
 
 ---
 
-This project was completed as part of the "Explore AI for Data Science" course, demonstrating proficiency in SQL querying for comprehensive data analysis within the movie industry context.
-
-## License
-
-This project and its content are licensed under [License Name] - [License URL].
+This project was completed as part of the "Explore AI for Data Science" course, demonstrating proficiency in SQL querying for comprehensive data analysis within the movie industry context
