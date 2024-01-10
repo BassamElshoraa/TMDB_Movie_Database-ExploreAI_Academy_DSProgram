@@ -1,4 +1,4 @@
-# The_Movie_Database--ExploreAI_Academy_DS_Program
+# TMDB_Movie_Database--ExploreAI_Academy_DS_Program
 # Movie Database and SQL Queries - Explore AI for Data Science Project
 
 
